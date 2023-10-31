@@ -1,8 +1,4 @@
 # Kubernetes 30-Day Learning Challenge
-<<<<<<< HEAD
-
-=======
->>>>>>> 7624d2e47ad1ade8516d2604136aa0343e8614b8
 ![Kubernetes](https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg)
 
 Welcome to the Kubernetes 30-Day Learning Challenge! 🚀 Master Kubernetes, one day at a time, and share your journey with the world.
@@ -38,8 +34,4 @@ As part of the challenge:
 
 Begin your Kubernetes journey by tackling Day 1 and progressing through the roadmap. Have fun, explore, and level up your Kubernetes skills!
 
-<<<<<<< HEAD
 Happy learning and blogging! 🌟
-=======
-Happy learning and blogging! 🌟
->>>>>>> 7624d2e47ad1ade8516d2604136aa0343e8614b8
